@@ -1,6 +1,6 @@
 # SCCHECK
 Script checker
-# XS Script and .bat File Checker
+# Python Script and .bat File Checker
 
 The XS Script and .bat File Checker is a Python script that allows you to check the safety of scripts and .bat files. It provides a graphical user interface (GUI) where you can paste scripts, check their safety, and generate safety reports.
 
